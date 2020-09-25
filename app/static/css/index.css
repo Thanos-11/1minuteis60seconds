@@ -1,0 +1,14 @@
+.jumbotron {
+    background: url(/app/static/photos/pitch.png);
+    background-size: cover;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: 'Acme', sans-serif;
+
+}
+
+.navbar {
+    margin-bottom: 0;
+    font-family: 'Acme', sans-serif;
+    font-size: 40px;
+}

@@ -1,0 +1,5 @@
+Hello {{user.username}}
+Welcome to One Minute Pitch
+We see you have signed up for our application and now you can start sharing your pitches to everyone.
+Good luck.
+If this wasn't you ignore this message!
